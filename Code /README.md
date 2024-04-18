@@ -24,3 +24,15 @@ Understanding:
 ### Usage:
 - Understanding data types is essential for effective variable declaration, manipulation, and type conversion.
 - Choosing the appropriate data type optimizes memory usage and enhances code readability and maintainability.
+
+## 3. Functions in Python:
+- Functions are reusable blocks of code that perform specific tasks. They help in organizing code, promoting code reuse, and enhancing modularity. In Python, functions are defined using the def keyword and can have parameters and return values.
+
+### Commentary and Analysis:
+-Code Function.py: The provided code defines several functions such as sound, display, get_isHappy, and set_isHappy.
+Understanding:
+-Functions encapsulate behavior and promote abstraction by hiding implementation details.
+-Python functions can accept parameters and return values, enhancing flexibility and reusability.
+### Usage:
+- Functions facilitate code organization and maintainability by breaking down complex tasks into smaller, manageable units.
+- Understanding function scope, arguments, and return values is crucial for effective function usage.
