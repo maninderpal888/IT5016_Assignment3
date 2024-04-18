@@ -12,3 +12,15 @@ Understanding:
 - Promotes code reuse and modularity.
 - Allows for hierarchical organization of classes.
 - Facilitates polymorphism, where objects of different classes can be treated uniformly.
+
+## 2. Data Types:
+- Data types in Python represent the type or kind of data stored in variables or objects. Python supports various built-in data types, including integers, floats, strings, booleans, lists, tuples, sets, dictionaries, and custom-defined classes.
+
+### Commentary and Analysis:
+- Code (Datatype.py): The provided code demonstrates various data types such as strings, integers, booleans, lists, and custom-defined classes (cat, DomesticCat, WildCat).
+Understanding:
+- Each data type has its own characteristics and behavior. For example, strings are sequences of characters, and lists are mutable collections of items.
+- Python's dynamic typing allows variables to hold different types of data during runtime.
+### Usage:
+- Understanding data types is essential for effective variable declaration, manipulation, and type conversion.
+- Choosing the appropriate data type optimizes memory usage and enhances code readability and maintainability.
