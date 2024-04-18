@@ -15,4 +15,4 @@
 - ***README.md***
 
 ## Requirements
-- Python 3.x
+- Python 3.10
