@@ -18,5 +18,5 @@ This is a simple Python program that simulates a race between two turtles using 
 - The winner is determined based on which turtle remains on the screen or if both turtles collide.
 
 ## Files
-***game.py: The main Python script containing the game logic.***
-***README.md: This file, providing information about the game and how to run it.***
+- ***game.py: The main Python script containing the game logic.***
+- ***README.md: This file, providing information about the game and how to run it.***
