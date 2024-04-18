@@ -20,3 +20,12 @@ This is a simple Python program that simulates a race between two turtles using 
 ## Files
 - ***game.py: The main Python script containing the game logic.***
 - ***README.md: This file, providing information about the game and how to run it.***
+
+## Learning Concepts
+This project incorporates several key programming concepts:
+
+- Turtle Graphics: Utilize the turtle library to control virtual turtles on a canvas, creating engaging visualizations.
+- Random Number Generation: Employ the random module to generate random values, introducing an element of chance into the turtle movements.
+- Game Loop: Implement a while loop to continuously update the game state, ensuring a dynamic progression.
+- Collision Detection: Design functions (isInScreen and samePosition) to identify collisions between turtles and screen boundaries.
+- Event-Driven Programming: Although not explicitly implemented, this project lays the groundwork for understanding how user interactions (e.g., mouse clicks) could be used for further control (concept introduced).
