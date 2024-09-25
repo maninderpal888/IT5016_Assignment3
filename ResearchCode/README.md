@@ -30,7 +30,7 @@ Exit: Close the application.
 1. Register a new requisition
 2. Display all requisitions
 3. Exit
-   ```bash
+
 Enter your choice: 1
 Enter date: 2024-09-25
 Enter request ID: 101
