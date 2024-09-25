@@ -5,9 +5,10 @@
 The Requisition Management System is a simple console application that allows users to register, display, and manage requisitions. This system helps track the status of requisitions submitted by staff, providing an overview of approved, pending, and not approved requests.
 
 ## Features
-- Register new requisitions with details such as date, request ID, staff ID, staff name, total amount, status, and approval reference number.
-- Display all registered requisitions along with their details and status.
-- Show statistics including total requisitions, number of approved, pending, and not approved requisitions.
+- **Register Requisitions**: Users can input various details of a requisition, including date, request ID, staff ID, staff name, total amount, status, and approval reference number.
+- **Display Requisitions**: The application allows users to view all registered requisitions, complete with their details and current statuses.
+- **Status Check**: Each requisition can be checked for its current status—approved, pending, or not approved.
+- **Statistics Summary**: At any time, users can view a summary of requisition statistics, including the total number of requisitions submitted and the breakdown of their statuses.
 
 ## Requirements
 - Python 3.10
