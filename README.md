@@ -16,3 +16,8 @@
 
 ## Requirements
 - Python 3.10
+
+## Research Code
+**Files:**
+- ***Research.py***
+- ***README.md***
