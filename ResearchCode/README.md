@@ -44,10 +44,10 @@ Enter approval reference number: REF12345
 ## Statistics
 After exiting the application, the system will display the following statistics:
 
-Total number of requisitions submitted.
-Total number of approved requisitions.
-Total number of pending requisitions.
-Total number of not approved requisitions.
+1.Total number of requisitions submitted.
+2.Total number of approved requisitions.
+3.Total number of pending requisitions.
+4.Total number of not approved requisitions.
 
 
 
